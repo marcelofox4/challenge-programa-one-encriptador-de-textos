@@ -1,0 +1,156 @@
+.main_encript {
+    width: 100%;
+    background: #E9ECF8;
+}
+
+.main_encript_content_area {
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.main_encript_content_area_textarea {
+    flex-basis: 60%;
+    justify-content: center;
+    padding: 20px;
+}
+
+.main_encript_content_area_encript {
+    flex-basis: 40%;
+    justify-content: center;
+    padding: 20px;
+}
+
+/*
+body {
+    background: #E9ECF8;
+}
+
+.main_content {
+    width: 100%;
+    display: flex;
+}
+
+.area-texto-codificacao {
+    flex-basis: 60%;
+}
+
+.area-texto-codificacao textarea {
+    font-family: "Inter";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    color: #0A3871;
+    border: none;
+    outline: none;
+    background: #E9ECF8;
+    resize: none;
+    padding: 20px;
+}
+
+
+.area-texto-codificacao textarea {
+    font-family: "Inter";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    color: #0A3871;
+    border: none;
+    outline: none;
+    background: #E9ECF8;
+    resize: none;
+}
+
+
+.area-resultado-codificacao {
+    flex-basis: 40%;
+    width: 350px;
+    height: 500px;
+    background: #FFFFFF;
+    padding: 30px;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.20);
+    padding: 20px;
+}
+
+.area-resultado-codificacao-conteudo {
+    text-align: center;
+}
+
+.mensagem-nao-encontrado {
+    margin: 25px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: bold;
+    color: #343A40;
+}
+
+.mensagem-informacao {
+    margin: 0 20px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    color: #495057;
+}
+
+.area-envio {
+    width: 50%;
+    margin-left: 130px;
+    margin-top: 30px;
+    padding: 30px 0;
+}
+
+.area-envio img {
+    width: 12px;
+    height: 12px;
+    vertical-align: middle;
+    margin-right: 2px;
+}
+
+.area-envio span {
+    font-family: "Inter";
+    font-size: 12px;
+    color: #495057;
+}
+
+.area-botoes {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.criptografar {
+    margin-right: 30px;
+    padding: 15px 110px;
+    border-radius: 20px;
+    font-family: "Inter";
+    font-size: 15px;
+    border: none;
+    background: #0A3871;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.criptografar:hover {
+    background: #609ED4;
+    transform: scale(1.1);
+}
+
+.descriptografar {
+    padding: 15px 100px;
+    border-radius: 20px;
+    font-family: "Inter";
+    font-size: 15px;
+    border: none;
+    background: #0A3871;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.descriptografar:hover {
+    background: #609ED4;
+    transform: scale(1.1);
+}
+*/

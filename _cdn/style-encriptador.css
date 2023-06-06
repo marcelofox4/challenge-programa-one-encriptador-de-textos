@@ -10,15 +10,128 @@
 }
 
 .main_encript_content_area_textarea {
-    flex-basis: 60%;
+    flex-basis: 70%;
     justify-content: center;
     padding: 20px;
 }
 
+.main_encript_content_area_textarea textarea {
+    font-family: "Inter";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    color: #0A3871;
+    border: none;
+    outline: none;
+    background: #E9ECF8;
+    resize: none;
+    padding: 20px;
+}
+
 .main_encript_content_area_encript {
-    flex-basis: 40%;
+    flex-basis: 30%;
     justify-content: center;
     padding: 20px;
+    width: auto;
+    height: auto;
+    background: #FFFFFF;
+    border-radius: 15px;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.20);
+    padding: 20px;
+    margin-top: 25px;
+    margin-right: 40px;
+}
+
+.mensagem_nao_encontrado {
+    text-align: center;
+    margin: 25px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: bold;
+    color: #343A40;
+}
+
+.mensagem_informacao {
+    text-align: center;
+    margin: 0 20px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    color: #495057;
+}
+
+.main_buttons {
+    width: 100%;
+}
+
+.main_buttons img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-right: 2px;
+}
+
+.main_buttons span {
+    margin-left: 60px;
+    font-family: "Inter";
+    font-size: 16px;
+    color: #495057;
+    display: block;
+}
+
+.main_buttons_area {
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 60px;
+}
+
+.criptografar {
+    margin-right: 40px;
+    padding: 12px 80px;
+    border-radius: 5px;
+    font-family: "Inter";
+    font-size: 16px;
+    border: none;
+    background: #0A3871;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.criptografar:hover {
+    background: #609ED4;
+}
+
+.descriptografar {
+    padding: 12px 70px;
+    border-radius: 5px;
+    font-family: "Inter";
+    font-size: 16px;
+    border: none;
+    background: #0A3871;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.descriptografar:hover {
+    background: #609ED4;
+}
+
+.main_footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #ebebeb;
+    border-top: 1px solid #ccc;
+    font-size: 0.9em;
+    color: #666;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.main_footer a{
+    color: #666;
 }
 
 /*

@@ -51,11 +51,11 @@ No Encriptador segui o Layout que foi disponibilizado no Challenge.
 
 <br>
 
-Só foi pedido no desafio para fazer a tela do Encriptador, mas quis ir um pouco além e fiz um site estático navegável e com uma Home para poder treinar um pouco mais o HTML5  e o CSS.
+**Obs:** Só foi pedido no desafio para fazer a tela do Encriptador, mas quis ir um pouco além e fiz um site estático navegável e com uma Home para poder treinar um pouco mais o HTML5  e o CSS.
 
 <br>
 
-Para acessar o Encriptador clique no link a seguir: [Challenge ONE - Encriptador de Textos](https://marcelofox4.github.io/challenge-programa-one-encriptador-de-textos/index.html)
+Para acessar o Encriptador clique no link a seguir: <a href="https://marcelofox4.github.io/challenge-programa-one-encriptador-de-textos/index.html" _blank>Challenge ONE - Encriptador de Textos</a>
 
 ## Linguagem e lib utilizada
 

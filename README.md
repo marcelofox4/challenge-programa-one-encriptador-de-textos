@@ -55,7 +55,7 @@ No Encriptador segui o Layout que foi disponibilizado no Challenge.
 
 <br>
 
-Para acessar o Encriptador clique no link a seguir: <a href="https://marcelofox4.github.io/challenge-programa-one-encriptador-de-textos/index.html" _blank>Challenge ONE - Encriptador de Textos</a>
+Para acessar o Encriptador clique no link a seguir: <a href="https://marcelofox4.github.io/challenge-programa-one-encriptador-de-textos/index.html" target="_blank">Challenge ONE - Encriptador de Textos</a>
 
 ## Linguagem e lib utilizada
 
